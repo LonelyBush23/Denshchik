@@ -10,7 +10,7 @@ from jinja2 import Environment, FileSystemLoader
 import pdfkit
 
 
-data_entry = ["Введите название файла: ",
+data_entry = ["Введите название этого ужасного файла: ",
 "Введите название профессии: "]
 
 
